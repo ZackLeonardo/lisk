@@ -572,7 +572,7 @@ d.run(() => {
 				/**
 				 * Description of the function.
 				 *
-				 * @func webSocket[4]
+				 * @func webSocket[5]
 				 * @memberof! app
 				 * @param {Object} scope
 				 * @param {function} cb - Callback function
